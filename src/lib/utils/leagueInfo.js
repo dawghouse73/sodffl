@@ -275,7 +275,7 @@ export const managers = [
          link: 6, // manager array number within this array, or null to link back to all managers page
          image: "/managers/house2.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
                 },
-      "favoritePlayer": 234, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 4856, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) 
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets'
       "philosophy": "Swing for the fences",
