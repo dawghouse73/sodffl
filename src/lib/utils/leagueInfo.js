@@ -265,9 +265,9 @@ export const managers = [
       "name": "MJ",
       "tookOver": 2023,
       "location": "Delta, CA", // (optional)
-      "bio": "Gambling degen who loves him a good Titans Tight End. A career 58.0% win rate in Yahoo Fantasy Football, he's currently a member of the Diamond Rating Club going into the 2023 season.",
+      "bio": "Heartbroken Titans and Canucks fan still waiting for a single championship. Fantasy Football since 2008. Member of the Yahoo Fantasy Football Diamond Club with a career 58% Win Rate and 27 Trophies. Regular charitable donations to Draft Kings in both NFL Football and PGA Golf. Currently experimenting with NFL Best Ball on Underdog and with almost 50 teams drafted for the upcoming 2023 season and counting, its fair to say its becoming a bit of a problem.",
       "photo": "/managers/mj.jpg", 
-      "fantasyStart": 2000, // (optional) 
+      "fantasyStart": 2008, // (optional) 
       "favoriteTeam": "ten", // (optional) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) Win Now, Rebuild, Dynasty
       "rival":  {
