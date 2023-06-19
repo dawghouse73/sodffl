@@ -16,7 +16,7 @@ export const homepageText = `
   <p>Our history will be made in the coming years. But if history has taught us one thing, it's this:</p>
   <h4><p>LACES OUT DAN!</p></h4>
   <p></p>
-  <p><img src="../../shulacesoutdan-rayfinkleteamphoto.jpg" alt"Ray Finkle Team Photo" width="387px" height="285px"></p>
+  <p><a href="https://www.youtube.com/watch?v=fIzRQew22qw" target="_blank"><img src="../../shulacesoutdan-rayfinkleteamphoto.jpg" alt"Ray Finkle Team Photo" width="387px" height="285px"></a></p>
 `;
 
 /*   STEP 3   */
