@@ -91,7 +91,7 @@ export const managers = [
             link: 6, // manager array number within this array, or null to link back to all managers page
             image: "/managers/house2.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
                   },
-        "favoritePlayer": 987, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+        "favoritePlayer": 7591, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
         "valuePosition": "RB", // (optional) 
         "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' 
         "philosophy": "My philosophy is to be a fun, active league mate. I find fantasy is way more fun when people are wheeling and dealing.",
@@ -183,7 +183,7 @@ export const managers = [
             link: 10, // manager array number within this array, or null to link back to all managers page
             image: "/managers/friesen.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
                   },
-        "favoritePlayer": 632, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+        "favoritePlayer": 7526, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
         "valuePosition": "WR", // (optional)
         "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets'
         "philosophy": "Just keep playing.",
