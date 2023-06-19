@@ -34,6 +34,6 @@
         <img class='football' src='/deflated-football.png' alt='deflated football' />
     </div>
     <h5>
-        Nothing Here... Try Another Page!
+        Flah on the Play! 15 yards for unfound destination. Please Try Another Page!
     </h5>
 </div>
