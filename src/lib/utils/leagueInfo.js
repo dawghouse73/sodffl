@@ -173,7 +173,7 @@ export const managers = [
         "name": "Jas",
         "tookOver": 2023,
         "location": "Vancouver, CA", // (optional)
-        "bio": "Solid rosters year in year out - he's the Toronto Maple Leafs of Fantasy Football. A career 52.9% Win rate in Yahoo, he's a member of the Silver Club.",
+        "bio": "First or last! Shake and bake! A career 52.9% Win rate in Yahoo Fantasy, he's a member of the Silver Club.",
         "photo": "/managers/jas.jpg", 
         "fantasyStart": 2014, // (optional)
         "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
