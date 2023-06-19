@@ -58,7 +58,7 @@ export const managers = [
         "name": "Bryan",
         "tookOver": 2023,
         "location": "Brussells, BE", // (optional)
-        "bio": "The Tony Romo of Fantasy Football, slightly above average stats, winner of tight regular season games and a few meaningless league titles. Playoff maker, but all Swedish, no Finnish. A career 56.3% win rate in Yahoo and a member of the Yahoo Fantasy Sports Gold Club.",
+        "bio": "The Tony Romo of Fantasy Football, slightly above average stats, winner of tight regular season games and a few meaningless league titles. Playoff maker, but all Swedish, no Finnish. He has spent many Sunday mornings driving to Aachen, Germany from Brussels, Belgium, to play Draft Kings (not legal in Belgium). He won big once in 2017 and has been slowly giving back his winnings ever since. A career 56.3% win rate in Yahoo and a member of the Yahoo Fantasy Sports Gold Club.",
         "photo": "/managers/bryan.jpg",
         "fantasyStart": 2011, // (optional) 
         "favoriteTeam": "chi", // (optional) MUST BE LOWERCASE
