@@ -107,7 +107,7 @@ export const managers = [
         "bio": "Been playing Yahoo fantasy since 2013.  More of a hockey specialist.  Fodder for football.  46.7% win rate on Yahoo Football.  Currently participating in 3 redraft/keeper leagues.  This is my first crack at Dynasty here in 2023.",
         "photo": "/managers/craigh.jpg",
         "fantasyStart": 2014, 
-        "favoriteTeam": "lav", // (optional) MUST BE LOWERCASE
+        "favoriteTeam": "lv", // (optional) MUST BE LOWERCASE
         "mode": "Rebuild", // (optional) Win Now, Dynasty, Rebuild
         "rival":   {
             name: "MJ",
