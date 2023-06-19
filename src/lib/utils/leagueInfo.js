@@ -58,7 +58,7 @@ export const managers = [
         "name": "Bryan",
         "tookOver": 2023,
         "location": "Brussells, BE", // (optional)
-        "bio": "Between thrill seeking adventures this guy is found in a gym or behind the Bat Bar pondering his 56.3% win rate in Yahoo and his Yahoo Gold Club membership.",
+        "bio": "The Tony Romo of Fantasy Football, slightly above average stats, winner of tight regular season games and a few meaningless league titles. Playoff maker, but all Swedish, no Finnish. A career 56.3% win rate in Yahoo and a member of the Yahoo Fantasy Sports Gold Club.",
         "photo": "/managers/bryan.jpg",
         "fantasyStart": 2011, // (optional) 
         "favoriteTeam": "chi", // (optional) MUST BE LOWERCASE
