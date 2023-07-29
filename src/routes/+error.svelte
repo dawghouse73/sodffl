@@ -28,12 +28,12 @@
 
 <div class="main">
     <h4>
-        Hut, Hut, Blue 404!
+        OMAHA! OMAHA! Hut, Hut! Blue 404!
     </h4>
     <div class='footballHolder'>
         <img class='football' src='/deflated-football.png' alt='deflated football' />
     </div>
     <h5>
-        Flah on the Play! 15 yards for unfound destination. Please Try Another Page!
+        Flag on the Play! 15 yards for unfound destination. Please Try Another Page!
     </h5>
 </div>
