@@ -7,7 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>THIS IS A TEST - Welcome to the <font color ="#FC4C02 "><i><b>Shulaces Out Dan</b></i></font> Fantasy Football League site.</p>
+  <p>Welcome to the <font color ="#FC4C02 "><i><b>Shulaces Out Dan</b></i></font> Fantasy Football League site.</p>
   <p>The <font color ="#FC4C02 "><i><b>Shulaces Out Dan</b></i></font> dynasty league arose from the ongoing comments and thoughts and chats from multiple keeper leagues that people were curious about the Dynasty front, sometimes stemming from frustration of having to give up a keeper due to the year limitation or having too many quality players and being forced to lose a high caliber player, sometimes for nothing in return.</p>
   <p></p>
   <p>Therein arrives the idea of kickstarting a dynasty league - combining managers from multiple leagues who've shown engagement, both on the social front and the league transaction perspective. Our league members are from all over the world, spanning a -8GMT to a +8GMT time zone variance.</p>
